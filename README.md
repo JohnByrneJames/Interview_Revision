@@ -49,7 +49,7 @@ _Communicate with **Team**_ <br>
 
 **Deploy** <br>
 ![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible-D24939?style=flat&logo=Ansible&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=Ansible&logoColor=white)
 
 **Monitor** <br>
 ![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat&logo=Splunk&logoColor=white)
