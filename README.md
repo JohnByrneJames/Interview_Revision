@@ -50,6 +50,6 @@ _Communicate with **Team**_ <br>
 ![Ansible](https://img.shields.io/badge/-Ansible-D24939?style=flat&logo=Jenkins&logoColor=white)
 
 **Monitor**
-![Splunk](https://img.shields.io/badge/-Ansible-D24939?style=flat&logo=Jenkins&logoColor=white)
+![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat&logo=Splunk&logoColor=white)
 
 **S** : 
