@@ -33,10 +33,23 @@ Devops requires a cultural shift that merges operations with development and dem
 **Plan** :  App | Software <br>
 ![Trello](https://img.shields.io/badge/-Trello-026aa7?style=flat&logo=Trello&logoColor=white)
 
-_Communicate_ <br>
+_Communicate with **Team**_ <br>
 ![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-6264A7?style=flat&logo=Microsoft%20Teams&logoColor=white)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:jbyrne@spartaglobal.com)
 
+**Code** : Program / Code <br>
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/JohnByrneJames)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
 
-**Code** : Program / Code
+**Build** | **Test** | **Release** <br>
+![Docker](https://img.shields.io/badge/-Docker-D24939?style=flat&logo=Jenkins&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white)
+
+**Deploy** <br>
+![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white)
+![Ansible](https://img.shields.io/badge/-Ansible-D24939?style=flat&logo=Jenkins&logoColor=white)
+
+**Monitor**
+![Splunk](https://img.shields.io/badge/-Ansible-D24939?style=flat&logo=Jenkins&logoColor=white)
 
 **S** : 
