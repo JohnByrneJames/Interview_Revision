@@ -271,7 +271,9 @@ into the product backlog for future sprints.
 The final meeting where the team reviews what could be improved for future sprints and how it can be achieved. There is ALWAYS a opportunity to improve according the SCRUM ethos, providing
 the team time in which to identify, discuss and plan this. The whole scrum team should take part, including the development team, the scrum master and the product owner. This should be collaborative effort, just like the entire
 SCRUM and Agile process.
-## **The Sprint** - The Sprint is an event in itself that contains all the work and all the other events that happen during the time boxed period of development.
+## **The Sprint**
+
+The Sprint is an event in itself that contains all the work and all the other events that happen during the time boxed period of development.
 
 # **SCRUM Roles**
 
