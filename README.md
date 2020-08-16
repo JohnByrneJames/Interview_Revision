@@ -30,9 +30,8 @@ Devops requires a cultural shift that merges operations with development and dem
 
 **Our ToolChain:**
 
-**Plan** :  App | Software 
-
-[![Trello](https://img.shields.io/badge/-Trello-026aa7?style=flat&logo=Trello&logoColor=white)](https://trello.com/b/eZdQiVQU/engineering-67)
+**Plan** :  App | Software <br>
+![Trello](https://img.shields.io/badge/-Trello-026aa7?style=flat&logo=Trello&logoColor=white)
 
 _Communicate_ <br>
 ![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-6264A7?style=flat&logo=Microsoft%20Teams&logoColor=white)
