@@ -5,6 +5,7 @@ I need to be able to Recall information when asked, therefore good practice is t
 # Contents
 * [STAR Responses :star:](#STAR-Responses)
 * [SQL Revision :bar_chart:](#SQL-Revision)
+* [Agile and Scrum](#Agile-and-Scrum)
 
 ---
 
