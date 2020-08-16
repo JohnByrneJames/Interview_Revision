@@ -42,7 +42,7 @@ _Communicate with **Team**_ <br>
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=Git&logoColor=white)
 
 **Build** | **Test** | **Release** <br>
-![Docker](https://img.shields.io/badge/-Docker-D24939?style=flat&logo=Jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white)
 
 **Deploy** <br>
