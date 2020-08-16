@@ -82,14 +82,14 @@ Where as Agile is a software development methodology that focuses on iterative, 
 * **Q** : What are the different Phases in DevOps? :
 
 * **A** : <br>
-* **Plan** : Initially, there should be a plan for the type of application that needs to be developed. Getting a rough picture of the development process is always a good idea.
-* **Code** : The application is coded as per the end-user requirements. 
-* **Build** : Build the application by integrating various codes formed in previous steps.
-* **Test** : This is the most crucial step of the application development. Test the application and rebuild, if necessary.
-* **Integrate** : Multiple codes from different programmers are integrated into one.
-* **Deploy** : Code is deployed into a cloud environment for further usage. It is ensured that any new changes do not affect the functioning of a high traffic website.
-* **Operate** : Operations are performed on the code if required.
-* **Monitor** : Application performance is monitored. Changes are made to meet the end-user requirements. 
+  * **Plan** : Initially, there should be a plan for the type of application that needs to be developed. Getting a rough picture of the development process is always a good idea.
+  * **Code** : The application is coded as per the end-user requirements. 
+  * **Build** : Build the application by integrating various codes formed in previous steps.
+  * **Test** : This is the most crucial step of the application development. Test the application and rebuild, if necessary.
+  * **Integrate** : Multiple codes from different programmers are integrated into one.
+  * **Deploy** : Code is deployed into a cloud environment for further usage. It is ensured that any new changes do not affect the functioning of a high traffic website.
+  * **Operate** : Operations are performed on the code if required.
+  * **Monitor** : Application performance is monitored. Changes are made to meet the end-user requirements. 
 
 **📋 S** : During my time at SpartaGlobal we practiced the DevOps lifecycle, Starting with Continuous Integration, Delivery and Deployment. The DevOps lifecycle is quite different to traditional lifecycles like waterfall which develop a software by planning, testing, deployment and testing of a software. The difference for DevOps is that it follows an iterative approach of the lifecycle so as well as all these steps being integrated into eachother, they take place week by week to iterably create a software.
 
