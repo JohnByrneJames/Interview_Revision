@@ -76,3 +76,23 @@ Where as Agile is a software development methodology that focuses on iterative, 
 **💡 R** : As a result the pipeline was created in a single day, and included every necessary step that was required. The guidance of develop was based on the requirements specified inside the kanban board, this allowed me to stay more on track with what was needed at each stage of development. I was also able to design the pipeline in a way that was appropriate and satisfied the expectations of the tests which were run when it was being testing in the continous integration step. DevOps adds a seamless way to automate the software development process and Agile is a methodology to help track, structure and iterate the development that is happening whilst also thinking about what the customers need in the software.
 
 ### Question 3
+
+* **Q** : What are the different Phases in DevOps? :
+
+* **A** : <br>
+* **Plan** : Initially, there should be a plan for the type of application that needs to be developed. Getting a rough picture of the development process is always a good idea.
+* **Code** : The application is coded as per the end-user requirements. 
+* **Build** : Build the application by integrating various codes formed in previous steps.
+* **Test** : This is the most crucial step of the application development. Test the application and rebuild, if necessary.
+* **Integrate** : Multiple codes from different programmers are integrated into one.
+* **Deploy** : Code is deployed into a cloud environment for further usage. It is ensured that any new changes do not affect the functioning of a high traffic website.
+* **Operate** : Operations are performed on the code if required.
+* **Monitor** : Application performance is monitored. Changes are made to meet the end-user requirements. 
+
+**📋 S** : During my time at SpartaGlobal we practiced the DevOps lifecycle, Starting with Continuous Integration, Delivery and Deployment. The DevOps lifecycle is quite different to traditional lifecycles like waterfall which develop a software by planning, testing, deployment and testing of a software. The difference for DevOps is that it follows an iterative approach of the lifecycle so as well as all these steps being integrated into eachother, they take place week by week to iterably create a software.
+
+**📌 T** : At the academy we were tasked with creating a web app, so I created a Kanban board to help us worth through the process of implementing it into the DevOps Lifecycle.
+
+**👔 A** : To outline the course I took to do this, I first planned using the Kanban board; planning my development needs, acceptance criteria and user requirements. I referred to this a lot and used the SCRUM framework to structure it into weekly sprints. I could push my code to GitHub, using Jenkins it would then be built and deployed into a test environment hosted on AWS, this deployment was tested against some unit tests provided by our trainers. The code was then integrated into our master branch of GitHub if it was successful, and finally deployed into the real-time production environment, available to customers. The production environment is monitored using software like Splunk, this allows me to see traffic activity including need to increase performance or any other maintenance needed on the code.
+
+**💡 R** : The Process from end-to-end of integrating code into production is automated using the DevOps lifecycle and technologies that were available, including **AWS** for hosting, **Jenkins** for Integration and testing and **GitHub** for version control. The process of making a small change is a lot easier using this lifecycle, it also allowed the webapp to have as little downtime as possible as the code is integrated onto code that already exists in the environment, taking 80% less time than if the webapp was taken completely down and added to.
