@@ -4,12 +4,20 @@ I need to be able to Recall information when asked, therefore good practice is t
 
 # Contents
 * [STAR Responses :star:](#STAR-Responses)
-* [SQL Revision :bar_chart:](#SQL-Revision)
-* [Agile and Scrum](#Agile-and-Scrum)
-
+* [SQL Revision :bar_chart:](SQL_Revision.md)
+* [Agile and Scrum](Agile_and_Scrum_Revision.md)
 ---
 
 # STAR-Responses
+
+## Contents
+1. [Question 1](#Question-1)
+
+2. [Question 2](#Question-2)
+
+3. [Question 3](#Question-3)
+
+4. [Question 4](#Question-4)
 
 This section will follow the pattern of **Question** : **Answer**. **STAR :star:** stands for **Situation**, **Task**, **Action** and **Result** and is an extremely useful way of answering a question in an interview. It is a good way to show the employer how you have used, implemented and benefited from a particular tool or software.
 
@@ -23,7 +31,7 @@ This section will follow the pattern of **Question** : **Answer**. **STAR :star:
 
 Examples Courtesy of [**vawizard**](Documents/STAR_Method_Interviews.pdf)
 
-#### Question 1
+# Question 1
 
 * **Q** : What is DevOps? 
 
@@ -62,7 +70,7 @@ _Communicate with **Team**_ <br>
 
 **💡 R** : This really points out the importance of the DevOps lifecycle, this toolchain helps us as a DevOp automate, test and standerdize the process of developing a software end to end. As a result of this automation I was able to garuntee that the code I push to GitHub is properly tested inside a test environment before ever reaching the point of deployment eliminating the common issue of human error. The ability to integrate code as it is pushed to GitHub totally eliminates the time consuming process of integrating code from multiple contributors at the end of the day.
 
-#### Question 2
+# Question 2
 
 * **Q** : How is DevOps different from agile methodology? 
 
@@ -77,7 +85,7 @@ Where as Agile is a software development methodology that focuses on iterative, 
 
 **💡 R** : As a result the pipeline was created in a single day, and included every necessary step that was required. The guidance of develop was based on the requirements specified inside the kanban board, this allowed me to stay more on track with what was needed at each stage of development. I was also able to design the pipeline in a way that was appropriate and satisfied the expectations of the tests which were run when it was being testing in the continous integration step. DevOps adds a seamless way to automate the software development process and Agile is a methodology to help track, structure and iterate the development that is happening whilst also thinking about what the customers need in the software.
 
-### Question 3
+# Question 3
 
 * **Q** : What are the different Phases in DevOps? :
 
@@ -99,4 +107,4 @@ Where as Agile is a software development methodology that focuses on iterative, 
 
 **💡 R** : The Process from end-to-end of integrating code into production is automated using the DevOps lifecycle and technologies that were available, including **AWS** for hosting, **Jenkins** for Integration and testing and **GitHub** for version control. The process of making a small change is a lot easier using this lifecycle, it also allowed the webapp to have as little downtime as possible as the code is integrated onto code that already exists in the environment, taking 80% less time than if the webapp was taken completely down and added to.
 
-### Question 4
+# Question 4
