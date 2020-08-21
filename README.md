@@ -62,6 +62,7 @@ _Communicate with **Team**_ <br>
 **Deploy** <br>
 ![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat&logo=Ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-623Ce4?style=flat&logo=Terraform&logoColor=white)
 
 **Monitor** <br>
 ![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat&logo=Splunk&logoColor=white)
@@ -89,6 +90,18 @@ Where as Agile is a software development methodology that focuses on iterative, 
 
 **💡 R** : As a result the pipeline was created in a single day, and included every necessary step that was required. The guidance of develop was based on the requirements specified inside the kanban board, this allowed me to stay more on track with what was needed at each stage of development. I was also able to design the pipeline in a way that was appropriate and satisfied the expectations of the tests which were run when it was being testing in the continous integration step. DevOps adds a seamless way to automate the software development process and Agile is a methodology to help track, structure and iterate the development that is happening whilst also thinking about what the customers need in the software.
 
+___
+
+| **Features**                            | **DevOps**                                       | **Agile**                                                  |
+|-----------------------------------------|--------------------------------------------------|------------------------------------------------------------|
+| **Agility**                             | Agility in both Development & Operations         | Agility in only Development                                |
+| **Processes/ Practices**                | Involves processes such as CI, CD, CT, etc.      | Involves practices such as Agile Scrum, Agile Kanban, etc. |
+| **Key Focus Area**                      | Timeliness & quality have equal priority         | Timeliness is the main priority                            |
+| **Release Cycles/ Development Sprints** | Smaller releases cycles with  immediate feedback | Smaller release cycles                                     |
+| **Source of Feedback**                  | Feedback is from self (monitoring tools)         | Feedback is from customers                                 |
+| **Scope of Work**                       | Agility & need for Automation                    | Agility only                                               |
+
+
 # Question 3
 
 * **Q** : What are the different Phases in DevOps? :
@@ -112,3 +125,5 @@ Where as Agile is a software development methodology that focuses on iterative, 
 **💡 R** : The Process from end-to-end of integrating code into production is automated using the DevOps lifecycle and technologies that were available, including **AWS** for hosting, **Jenkins** for Integration and testing and **GitHub** for version control. The process of making a small change is a lot easier using this lifecycle, it also allowed the webapp to have as little downtime as possible as the code is integrated onto code that already exists in the environment, taking 80% less time than if the webapp was taken completely down and added to.
 
 # Question 4
+
+* **Q** : What are the  :
