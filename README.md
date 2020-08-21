@@ -11,13 +11,17 @@ I need to be able to Recall information when asked, therefore good practice is t
 # STAR-Responses
 
 ## Contents
-1. [Question 1](#Question-1)
+* [Example](#Example-Question)
 
-2. [Question 2](#Question-2)
+1. [Question 1](#Question-1) _**What is Devops**_
 
-3. [Question 3](#Question-3)
+2. [Question 2](#Question-2) _**How is DevOps different from agile**_
+
+3. [Question 3](#Question-3) _**What are the different phases of DevOps**_
 
 4. [Question 4](#Question-4)
+
+# Example Question
 
 This section will follow the pattern of **Question** : **Answer**. **STAR :star:** stands for **Situation**, **Task**, **Action** and **Result** and is an extremely useful way of answering a question in an interview. It is a good way to show the employer how you have used, implemented and benefited from a particular tool or software.
 
