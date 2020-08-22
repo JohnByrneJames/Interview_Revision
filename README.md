@@ -90,8 +90,6 @@ Where as Agile is a software development methodology that focuses on iterative, 
 
 **💡 R** : As a result the pipeline was created in a single day, and included every necessary step that was required. The guidance of develop was based on the requirements specified inside the kanban board, this allowed me to stay more on track with what was needed at each stage of development. I was also able to design the pipeline in a way that was appropriate and satisfied the expectations of the tests which were run when it was being testing in the continous integration step. DevOps adds a seamless way to automate the software development process and Agile is a methodology to help track, structure and iterate the development that is happening whilst also thinking about what the customers need in the software.
 
-___
-
 | **Features**                            | **DevOps**                                       | **Agile**                                                  |
 |-----------------------------------------|--------------------------------------------------|------------------------------------------------------------|
 | **Agility**                             | Agility in both Development & Operations         | Agility in only Development                                |
@@ -126,4 +124,31 @@ ___
 
 # Question 4
 
-* **Q** : What are the  :
+* **Q** : 
+
+* **A** :
+
+**📋 S** :
+
+**📌 T** :
+
+**👔 A** :
+
+**💡 R** :
+
+
+
+
+___
+
+* **Q** :
+
+* **A** :
+
+**📋 S** :
+
+**📌 T** :
+
+**👔 A** :
+
+**💡 R** :
