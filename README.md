@@ -7,6 +7,4 @@ Also find my **Python**, **SQL**, **Agile/ SCRUM** and **DevOps** Revision here 
 # Contents
 * [STAR Responses :star:](STAR.md)
 * [SQL Revision :bar_chart:](SQL_Revision.md)
-* [Agile and Scrum](Agile_and_Scrum_Revision.md)
-
-
+* [Agile and Scrum :diamond_shape_with_a_dot_inside:](Agile_and_Scrum_Revision.md)
