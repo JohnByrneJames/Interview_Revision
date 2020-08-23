@@ -15,6 +15,15 @@
 
 5. [Question 5](#Question-5) | _**What is the benefit of Using a cloud service like AWS?**_
 
+6. [Question 6](#Question-6) | _**What does an API do?**_
+
+7. [Question 7](#Question-7) | _**How have you worked with Databases?**_
+
+8. [Question 8](#Question-8) | _**What are the benefits of OOP compared to functional programming?**_
+
+9. [Question 9](#Question-9) | _**Why do we use TDD?**_
+
+
 # TMAY
 
 * **Q** : Tell me about yourself
