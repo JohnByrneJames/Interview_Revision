@@ -3,13 +3,27 @@
 ## Contents
 * [Example](#Example-Question)
 
-1. [Question 1](#Question-1) _**What is Devops**_
+* [_**TMAY**_ A.K.A **"** Tell me about yourself... **"**](#TMAY)
 
-2. [Question 2](#Question-2) _**How is DevOps different from agile**_
+1. [Question 1](#Question-1) | _**What is Devops**_
 
-3. [Question 3](#Question-3) _**What are the different phases of DevOps**_
+2. [Question 2](#Question-2) | _**How is DevOps different from Agile**_
 
-4. [Question 4](#Question-4)
+3. [Question 3](#Question-3) | _**What are the different phases of DevOps**_
+
+4. [Question 4](#Question-4) | _**Difference between Agile and SCRUM**_
+
+5. [Question 5](#Question-5) | _**What is the benefit of Using a cloud service like AWS?**_
+
+# TMAY
+
+Q : Tell me about yourself
+
+A : Of course!, Hi I am John Byrne; its a pleasure to meet you. I'm a recent graduate from the University of Greenwich where I studied Computing with Games Development. During my time on the course I was able to create several games that I was especially proud of using up and coming technologies such as VR, AR and XR. I also worked on web development using ASP.NET, PHP, CSS, HTML and bootstrap, as well as relational databases in oracle and beginner to advanced programming in C# and C++. I really enjoyed developing games, so I joined the Games Development society where I worked with my fellow students to work on C# skills and projects out of class hours, it was a lot of fun and I learned a lot about myself. For the final year project I chose a very impactful topic that was VR in education, I developed a Virtual Reality game that was designed to help junior ophthalmologists train in a safe, secure and cost-effective environment. I finally graduated with a 1st class degree.
+
+This made me think about the kind of industry I want to go into after I graduated, I wanted to do something that not only did I enjoy thoroughly but also made an impact on people. After some research I came across the term "DevOps", I looked at the all the innovation that created this term and how it affected any organisation that adopted it. I made a decision to pursue this idea and the more I looked into it the more excited I became. I started looking into opportunities for graduates but they were practically impossible to find, after that I asked a career advisor in my University who referred to me Sparta Global as a potential trainer. 
+
+I joined in April after I got 100% in the entrance exam, and during my time here so far not only have we covered Python, SQL, and dove deep into the world DevOps using automation tools, automating infrastructure, working as a team with our Agile methodology and SCRUM framework but I have also learnt alot about myself. I am a motivated and very studious individual who is hungry to learn and develop skills where ever possible; the academy has created an ideal environment for me to get stuck into these technologies and widen my breadth of knowledge. I am looking forward to what the future holds, I want to learn as much as I can and put it into action in a company! So thats me; Thanks for listening.
 
 # Example Question
 
@@ -76,9 +90,9 @@ Where as Agile is a software development methodology that focuses on iterative, 
 
 **📌 T** : In the Academy I was given the task to change the front page of a web application.
 
-**👔 A** : To achieve this I set up a continous integration and delivery pipeline which was triggered every time I pushed code to my GitHub Repository. After about 20 seconds of me pushing the code the web page which was live on AWS has the new code deployed into it using the SSH protocol. Using the Kanban board and its agile initative I was able to create the CICD pipeline using the product backlog which allowed me to plan the development of the pipelines setup into weekly sprints. 
+**👔 A** : To achieve this I set up a continous integration and delivery pipeline which was triggered every time I pushed code to my GitHub Repository. After about 20 seconds of me pushing the code the web page which was live on AWS has the new code deployed into it using the SSH protocol. Using the Kanban board and its agile initative I was able to create the CICD pipeline using the product backlog which allowed me to plan the development of the pipelines setup into steps. 
 
-**💡 R** : As a result the pipeline was created in a single day, and included every necessary step that was required. The guidance of develop was based on the requirements specified inside the kanban board, this allowed me to stay more on track with what was needed at each stage of development. I was also able to design the pipeline in a way that was appropriate and satisfied the expectations of the tests which were run when it was being testing in the continous integration step. DevOps adds a seamless way to automate the software development process and Agile is a methodology to help track, structure and iterate the development that is happening whilst also thinking about what the customers need in the software.
+**💡 R** : As a result the pipeline was created in a single day, and included every necessary step that was required. The development was guided on the requirements specified inside the kanban board, this allowed me to stay more on track with what was needed at each stage of development. I was also able to design the pipeline in a way that was appropriate and satisfied the expectations of the tests which were run when it was being testing in the continous integration step. DevOps adds a seamless way to automate the software development process and Agile is a methodology to help track, structure and iterate the development that is happening whilst also thinking about what the customers need in the software.
 
 | **Features**                            | **DevOps**                                       | **Agile**                                                  |
 |-----------------------------------------|--------------------------------------------------|------------------------------------------------------------|
@@ -114,31 +128,40 @@ Where as Agile is a software development methodology that focuses on iterative, 
 
 # Question 4
 
-* **Q** : 
+* **Q** : Difference between Agile and SCRUM?
 
-* **A** :
+* **A** : The key difference is that Agile is a software development methodology whilst SCRUM is a framework put in place to aid in the agile approach. 
 
-**📋 S** :
+Agile is a practice that helps continuous iteration of development and testing using the System Development Lifecycle process. Agile breaks the product into smaller builds, it also encourages the activites such as testing and development to take place concurrently unlike a lot of other software development methodologies. Furthermore, due to the iterative nature of Agile it encourages teamwork and constant interaction with stakeholders; particularly the product owner who provides constant feedback on progress. The development process is able to then incorporate these changes as the project continuous, which is the main benefit of the agile methodology. This means the end-product is more likely to be suited towards the product-owners expectations, in efficiency, functionality and most-likely bug free due to the constant testing that takes place at every step.
 
-**📌 T** :
+SCRUM is agile process or framework that allows the team to focus on delivering the business value in the shortest time, it rapidly and repeatably insepcts actual working software. It constantly emphasizes accountability, teamwork, and iteartive progress towards a well-defined goal. A key value that comes from using the SCRUM framework is its ability to adapt where requirements are likely to change or most of the time not known as the start of the project. As the project is done in iterations and encourages face-to-face communication it is far-easier to decide where and when a new requirement should be incorporated into the project using SCRUM EVENTS and SCRUM ARTIFACTS.
 
-**👔 A** :
+**Key Difference**
+* _Agile is a continuous iteration of development and testing in the software development process whereas SCRUM is an agile process to focus deliverying the business value in the shorted time._
+* _Agile methodology delivers the software on a regular basis for feedback while SCRUM delivers the software after each sprint._
+* _In the Agile process, leadership plays a vital role; on the other hand, SCRUM fosters self-organizating, cross functional teams.
+* _Agile involves collaborations and face-to-face interactions between members of various cross-functional teams whereas SCRUM collaboration 
+is achieved in daily stand ups_
+* _In Agile process design and execution should be kept simple whereas in SCRUM process design and execution can be innovative and experiemental_
 
-**💡 R** :
+**📋 S** : Agile is a software development methodology that helps continuous iteration of concurrent testing and development of software, generally using the SDLC process. The agile approach encourages self-organising and cross-functional teams as well as constant communication with stakeholders, particularly the product owner so he can be involved throughout the process and aid in bettering the software at every iteration to better meet the end-users needs. On the other hand SCRUM is a agile framework that allows the team to focus on delivering the business value in the shortest time. There are 4 key principles that come with the framework these are; Individuals over processes and tools, working software over documentation, customer collaboration over contract negotiation and responding to change over following a plan. Teamwork, accountability and iterative progress towards a well-defined goal is what SCRUM is all about, it encourages face-to-face communication through SCRUM events like a Standup or Sprint review, and progress through sprints and the product backlog. A key value that comes from the SCRUM framework is its ability to adapt to ever-chaning requirements as, a lot of projects do not have their required pre-defined at the start of a project.
 
+**📌 T** : I had been the set task of creating an Airport program that was able to book flights for passengers and also add new flights to the list of existing flights.
 
-
-
-___
-
-* **Q** :
-
-* **A** :
-
-**📋 S** :
-
-**📌 T** :
-
-**👔 A** :
+**👔 A** : To help structure our work I created a Kanban board using a popular sight called Trello, this 
 
 **💡 R** :
+
+# Question 5
+
+* **Q** : What is the benefit of Using a cloud service like AWS?
+
+* **A** : 
+
+**📋 S** : To understand the concept of cloud you need to know the difference between the cloud and on-prem; as its called in the business. On-Premises or On-Prem defines infrastructure such as server on the business site, so in a building they own for example, whereas the cloud defines a location that is simply not on that companies premises it is perhaps in a amazon warehouse somewhere but it is available as a service. This allows the company to store their data on a server hosted on the cloud, therefore they don't need to worry about the intracicies of security, hardware or maintenance as it is done by the provider; in this case Amazon.
+
+**📌 T** : We were set the task of creating what is known as an Ansible controller, this controller should be able to create a EC2 instance on AWS using a playbook and then be able to provision via a second playbook which would gain access to this instance via SSH secure entry. Once inside the playbook would run an provision our web server.
+
+**👔 A** : To do this we were going to have to make use of a concept known as the hybrid cloud, this is a cloud that consists of both on and off prem data being shared, accessed to communicated from a companies premises to the cloud. Using Vagrant a software to building and maintaining virtual software; I created a ansible controller inside a VM on my local machine, I then used Ansible a configuration management tool to communicate with AWS using some credentials and a playbook to instruct AWS to create a EC2 instance from a previously created AWS AMI which, once this was created I then had ansible go into this machine and provision so it had the necessary pre-requisities to run the NGINX server and a node app the playbook had copied over. 
+
+**💡 R** : Within a couple of minutes I was able to deploy a web app to the cloud onto a EC2 instance, the whole process had been automated and could achieved all from a centralised location on prem. Not only does save money as the cloud is generally a cheaper solution that multiple on prem data-centers, but it also hands of the job of maintenance of these servers, and the cloud is also capable of making this app available in multiple regions within minutes due to its global presence around the world making it highly available. Not to mention hundreds of micro-services that can control the size of your applications in response to demand adding scalability. More on this though with the introduction of docker and kubernetes a containerization and container orchestration system.
