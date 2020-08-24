@@ -8,3 +8,27 @@ Also find my **Python**, **SQL**, **Agile/ SCRUM** and **DevOps** Revision here 
 * [STAR Responses :star:](STAR.md)
 * [SQL Revision :bar_chart:](SQL_Revision.md)
 * [Agile and Scrum :diamond_shape_with_a_dot_inside:](Agile_and_Scrum_Revision.md)
+
+___
+
+# Helpful Diagrams
+
+### Vagrant VM Environment / Setup
+
+![Vagrant_Diagram](Images/VM_Vagrant_Diagram_automating_Node.svg)
+
+### Networking Diagram
+
+![Networking_Diagram](Images/Networking_Diagram.svg)
+
+### N-Tier Architecture Diagram
+
+![N-Tier_Diagram](Images/N-Tier_Architecture.svg)
+
+### VPC Setup
+
+![VPC_seup_Diagram](Images/VPC_Setup.svg)
+
+### Cloud Infrastructure
+
+![Cloud Infrastructure Diagram](Images/Cloud_Infrastructure.svg)
