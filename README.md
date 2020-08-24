@@ -37,4 +37,4 @@ ___
 
 _**Side Note: This diagram still needs additional changes**_
 
-![Terraform Diagram](Images/Diagram_To_ Terraform.svg)
+![Terraform Diagram](Images/Diagram_To_Terraform.svg)
