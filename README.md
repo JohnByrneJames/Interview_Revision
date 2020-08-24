@@ -32,3 +32,9 @@ ___
 ### Cloud Infrastructure
 
 ![Cloud Infrastructure Diagram](Images/Cloud_Infrastructure.svg)
+
+### Terraform Container Orchestration
+
+_**Side Note: This diagram still needs additional changes**_
+
+![Terraform Diagram](Images/Diagram_To_ Terraform.svg)
