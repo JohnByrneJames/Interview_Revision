@@ -38,3 +38,7 @@ ___
 _**Side Note: This diagram still needs additional changes**_
 
 ![Terraform Diagram](Images/Diagram_To_Terraform.svg)
+
+### Docker Containerisation
+
+![DockerDiagram](Images/Docker_Diagram.svg)
