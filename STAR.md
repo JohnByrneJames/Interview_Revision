@@ -113,7 +113,9 @@ Where as Agile is a software development methodology that focuses on iterative, 
 
 * **Q** : What are the different Phases in DevOps? :
 
-* **A** : <br>
+**ACRONYM** : MY **PC** FROM **BT** **IDOM**
+
+* **A** : <br> 
   * **Plan** : Initially, there should be a plan for the type of application that needs to be developed. Getting a rough picture of the development process is always a good idea.
   * **Code** : The application is coded as per the end-user requirements. 
   * **Build** : Build the application by integrating various codes formed in previous steps.
