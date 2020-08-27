@@ -32,3 +32,51 @@ I am going to write points that I think are important and I find hard to remembe
 3. **SET** : `UNORDERED` `UNINDEXED` `MUTABLE` `NO DUPLICATES` `{}`
 
 4. **DICTIONARY** : `UNORDERED` `MUTABLE` `INDEXED` `NO DUPLICATES` `{Key: Value}`
+
+# OOP Object-oriented Programming
+
+Programming that revolves around the concept of objects, and dealing with objects. These objects are what make up the structure of a program by bundling properties `attributes` and behaviours inside them `methods`.
+
+An Object is created when you create a instance from a class, for example:
+
+```python
+class Person:
+  def __init__(self, name, age):
+    self.name = name
+    self.age = age
+
+  def myfunc(self):
+    print("Hello my name is " + self.name)
+
+p1 = Person("John", 36)
+p1.myfunc() 
+```
+
+Here we are creating p1, as an object and then calling the myfun method inside the class to print out the object. Objects usually have self-reference types such as self, which refers the current instance E.G. our p1 object. 
+
+We have instantiated this object with the values `Name = John` and `age = 36`, now we can use self to fetch these attributes when we need them.
+
+**PILLARS OF OOP**
+
+**1.** **INHERITANCE**
+
+* If a class inherits a class it is known as a `child class` of the `parent class` it has inherited
+* It allows you to follow **DRY**; it is done with the `super()` function in python which inherits all the `attributes` and `methods` of the parent class.
+
+**2.** **ENCAPSULATION**
+
+* Restrict access to method and attributes
+* Prevent accidental modification of data and unwanted changes
+* Encapsulation is not a real thing in python it is purely done by convention using `_` to define protected and `__` to define private which can also be access via name mangling.
+* INFORMATION HIDING
+
+**3.** **POLYMORPHISM**
+
+* Multiple different classes can use the same method with differnt outcomes, sometimes this concept is referred to as overriding
+* Producing differnent results throught the same method
+
+**4.** **ABSTRACTION**
+
+* extension to encapsulation, only expose components that need to be public (Example: We want a coffe, not to know how its done).
+* Encapsulate all behind scenes mechanisms
+* IMPLEMENATION HIDING
